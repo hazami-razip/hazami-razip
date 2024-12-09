@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mechatronic engineering
 - 💞️ I’m looking to collaborate with you
 - 📫 you can reach me by message no. 01172366260
-- ⚡ Fun fact: i'm single
+- ⚡ Fun fact: Im not fun
 
 <!---
 hazami-razip/hazami-razip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
